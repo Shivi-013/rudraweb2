@@ -349,7 +349,7 @@ const Home = () => {
           },
           {
             src: "./achievement-image7.png",
-            title: "IRDC - Team RUDRA achieved 3rd as World Rank",
+            title: "IRC - Team RUDRA achieved 3rd as World Rank",
             date: "June 12, 2019"
           },
           {
